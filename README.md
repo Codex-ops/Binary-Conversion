@@ -10,6 +10,8 @@ npm install -g typescript
 ------------
 To compile: tsc app.ts
 
+To run: start the html file and hit CTRL + Shift + I
+
 # Common questions
 ------------
 Question: What is this Project for?
