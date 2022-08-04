@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://static.thenounproject.com/png/2341691-200.png" width="150px"><br>
         Binary Conversion!
-        Read binary IP and convert it to plane text.
+        <br>Read binary IP and convert it to plane text.</br>
 </h1>
 
 ### Installing typescript using npm
