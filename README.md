@@ -1,20 +1,23 @@
-# Binary conversion
-------------
-See how a computer reads a binary string and convert it to a IP.
+<h1 align="center">
+    <img src="https://static.thenounproject.com/png/2341691-200.png" width="150px"><br>
+        Binary Conversion!
+        Read binary IP and convert it to plane text.
+</h1>
 
-# How to install typescript
-------------
+### Installing typescript using npm
+```
 npm install -g typescript
+```
 
-# How to run
-------------
-To compile: tsc app.ts
+### Compiling/Running our file
+```
+tsc app.ts
+--------------
+After, run the HTML file and press CTRL + SHIFT + I
+```
 
-To run: start the html file and hit CTRL + Shift + I
+### FAQ
+- Once Questions are asked this will get updated.
 
-# Common questions
-------------
-Question: What is this Project for?
-
-Answer: This project is to show the conversion of a binary string to an IP.
-
+### Contributions 🎉
+###### If you're interested in contributing simply open a pull request!
