@@ -2,9 +2,15 @@
 <br>How do we convert a Binary IP to a Decimal IP</br> 
 </h1>
 
-This a binary String that is 32 bits long
-01111111.00000000.00000000.00000001
-Each octet is 8 bits long make this ip address 4 bytes 
+### Let's define what a binary IP is
+
+"01111111.00000000.00000000.00000001"
+- This a Binary  IP address
+- 
+- What is an octet an octet is 8 bits of a binary IP address 
+-
+- How long is a Binary IP address in bits a binary IP is 32 bits or 4 bytes 
+ 
 
 now what is this binary ip showing us its just ones and zeros well think of it as a light and one is on and 0 is off
 
