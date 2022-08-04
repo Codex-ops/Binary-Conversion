@@ -27,5 +27,8 @@
      0   1   1   1   1  1  1  1 
 <br>128 64 32 16 8 4 2 1</br>
 
-once they are lined up just add the numbers up with a one over it so 
-64 + 32 + 16 + 8 + 4 + 2 + 1 = 127 and boom you got the first number of the IP address
+- Once they are lined up add the numbers with a one over it
+
+
+- `64 + 32 + 16 + 8 + 4 + 2 + 1 = 127` 
+- boom now you got the first number of the IP address
