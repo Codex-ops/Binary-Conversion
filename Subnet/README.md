@@ -24,7 +24,7 @@
 ### How do we set it up 
 - we take the one set of octets and put the binary numbers above the powers of two chart
 
-     0  1  1  1  1 1 1 1 
+     <br>0  1  1  1  1 1 1 1</br> 
 <br>128 64 32 16 8 4 2 1</br>
 
 once they are lined up just add the numbers up with a one over it so 
