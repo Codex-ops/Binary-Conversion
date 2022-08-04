@@ -6,20 +6,21 @@
 
 "01111111.00000000.00000000.00000001"
 - This a Binary  IP address
-- 
-- What is an octet an octet is 8 bits of a binary IP address 
--
-- How long is a Binary IP address in bits a binary IP is 32 bits or 4 bytes 
  
+- What is an octet an octet is 8 bits of a binary IP address 
 
-now what is this binary ip showing us its just ones and zeros well think of it as a light and one is on and 0 is off
+- How long is a Binary IP address in bits a binary IP is 32 bits or 4 bytes 
 
-one way you can convert it is by using the power of 2 for example 
+### Let's explain what the binary IP address is showing us 
+- To the us we see a bunch of random one's and zero's but lets look at it as a light switch and one is on and zero is off
 
+### How to convert a binary IP to a Decimal IP
+- One way you can convert a binary IP to a Decimal IP is by using the power of 2
 
-(128 64 32 16 8 4 2 1) powers of 2 
+- What are the powers of 2 we use the powers of two to convert Binary IP's to Decimal IP's
 
-now just line up the first octet of the binary ip with the powers of 2 table 
+- We use the values of { 128, 64, 32, 8, 4, 2, 1 }
+
 
  0   1  1  1 1 1 1 1
 128 64 32 16 8 4 2 1
