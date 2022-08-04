@@ -1,6 +1,8 @@
 <h1 align="center">
-<br>This a binary String that is 32 bits long</br> 
+<br>How do we convert a Binary IP to a Decimal IP</br> 
+</h1>
 
+This a binary String that is 32 bits long
 01111111.00000000.00000000.00000001
 Each octet is 8 bits long make this ip address 4 bytes 
 
